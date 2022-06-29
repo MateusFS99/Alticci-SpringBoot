@@ -1,4 +1,4 @@
-[![Updated Badge](https://badges.pufler.dev/updated/MateusFS99/RecipeBook-ASP.NET)](https://github.com/MateusFS99/RecipeBook-ASP.NET/commits/main)
+[![Updated Badge](https://badges.pufler.dev/updated/MateusFS99/Alticci-SpringBoot)](https://github.com/MateusFS99/Alticci-SpringBoot/commits/main)
 
 <h1 align="center">Alticci - Spring Boot API</h1>
 
