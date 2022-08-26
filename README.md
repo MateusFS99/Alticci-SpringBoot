@@ -1,5 +1,3 @@
-[![Updated Badge](https://badges.pufler.dev/updated/MateusFS99/Alticci-SpringBoot)](https://github.com/MateusFS99/Alticci-SpringBoot/commits/main)
-
 <h1 align="center">Alticci - Spring Boot API</h1>
 
 ## About 🎯
@@ -14,6 +12,6 @@ The API has been documented using Swagger UI. After starting the application, th
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## License 📝
+## License ®️
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
